@@ -37,14 +37,14 @@ Pull requests are welcome with the condition that the resource should be free!
 
 ## Level 1 - Intro
 
-- [ ] OpenVPN <https://tryhackme.com/room/openvpn>
-- [ ] Welcome <https://tryhackme.com/jr/welcome>
-- [ ] Intro to Researching <https://tryhackme.com/room/introtoresearch>
-- [ ] Linux Fundamentals 1 <https://tryhackme.com/room/linuxfundamentalspart1>
-- [ ] Linux Fundamentals 2 <https://tryhackme.com/room/linuxfundamentalspart2>
+- [X] OpenVPN <https://tryhackme.com/room/openvpn>
+- [X] Welcome <https://tryhackme.com/jr/welcome>
+- [X] Intro to Researching <https://tryhackme.com/room/introtoresearch>
+- [X] Linux Fundamentals 1 <https://tryhackme.com/room/linuxfundamentalspart1>
+- [X] Linux Fundamentals 2 <https://tryhackme.com/room/linuxfundamentalspart2>
 - [ ] Linux Fundamentals 3 <https://tryhackme.com/room/linuxfundamentalspart3>
-- [ ] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
-- [ ] Principles of security <https://tryhackme.com/room/principlesofsecurity>
+- [X] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
+- [X] Principles of security <https://tryhackme.com/room/principlesofsecurity>
 - [ ] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
 - [ ] Crash Course Pentesting <https://tryhackme.com/room/ccpentesting>
 
