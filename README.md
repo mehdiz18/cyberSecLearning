@@ -42,7 +42,7 @@ Pull requests are welcome with the condition that the resource should be free!
 - [X] Intro to Researching <https://tryhackme.com/room/introtoresearch>
 - [X] Linux Fundamentals 1 <https://tryhackme.com/room/linuxfundamentalspart1>
 - [X] Linux Fundamentals 2 <https://tryhackme.com/room/linuxfundamentalspart2>
-- [ ] Linux Fundamentals 3 <https://tryhackme.com/room/linuxfundamentalspart3>
+- [x] Linux Fundamentals 3 <https://tryhackme.com/room/linuxfundamentalspart3>
 - [X] Pentesting fundamentals <https://tryhackme.com/room/pentestingfundamentals>
 - [X] Principles of security <https://tryhackme.com/room/principlesofsecurity>
 - [ ] Red Team Engagements <https://tryhackme.com/room/redteamengagements>
